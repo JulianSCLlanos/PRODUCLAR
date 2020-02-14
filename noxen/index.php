@@ -86,7 +86,7 @@ if (!isset($_SESSION['c3_id']) AND $_SESSION['c3_id'] != 1) {
 
               <!-- <li><a href="contact.html" class="nav-link">Contacto</a></li> -->
               <li><a href="TiendaOnline/catalogo.php" nav-link">Catálogo</a></li>
-              <a href="logout.php"><img src="images/salir.jpg" width="50" height="55"></a>
+              <!-- <a href="logout.php"><img src="images/salir.jpg" width="50" height="55"></a> -->
 
 
 
